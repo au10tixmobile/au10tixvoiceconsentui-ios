@@ -38,7 +38,7 @@ let package = Package(
         .binaryTarget(
           name: "Au10tixVoiceConsentUI",
           url: "https://github.com/au10tixmobile/Au10tixVoiceConsentUI/archive/refs/tags/3.28.0.zip",
-          checksum: "47c767a972c284f74750b3c248c7a04a7121293aac3edd82d01bb373bbfa22d3"
+          checksum: "c5428dd0658689dbdce11b9823dd634f2fdf058e99e6e5360d7dbdf278ce5980"
         )
     ]
 )
