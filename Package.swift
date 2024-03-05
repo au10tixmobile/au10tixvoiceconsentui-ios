@@ -22,23 +22,23 @@ let package = Package(
     targets: [
         .binaryTarget(
           name: "Au10tixCore",
-          url: "https://github.com/au10tixmobile/Au10tixCore/archive/refs/tags/3.28.0.zip",
-          checksum: "d9124ee6ebb0989c5a5590f7de5d26419bb0e0cca016eeaae457f4ee71c15b2e"
+          url: "https://github.com/au10tixmobile/Au10tixCore/archive/refs/tags/4.0.0.zip",
+          checksum: "ed5691a5d3bf0e519daa6c0e814c9900d77bd6db00aac68b1931afc87d6683f6"
         ),
         .binaryTarget(
           name: "Au10tixSourceManager",
-          url: "https://github.com/au10tixmobile/Au10tixSourceManager/archive/refs/tags/3.28.0.zip",
-          checksum: "661b4bc052ad236b654f8d09f4170462b991ec6ef8df35d37a9b6a113a23653f"
+          url: "https://github.com/au10tixmobile/Au10tixSourceManager/archive/refs/tags/4.0.0.zip",
+          checksum: "8bc55b8fe260a75fcd1a191e2c0f02faf1c10b805c4cbf7c00ea8eb74c66ec1f"
         ),
         .binaryTarget(
           name: "Au10tixBaseUI",
-          url: "https://github.com/au10tixmobile/Au10tixBaseUI/archive/refs/tags/3.28.0.zip",
-          checksum: "e3812351794a528b808704a99665690af8437fb55e184d7ab65df7b14fd1cdc2"
+          url: "https://github.com/au10tixmobile/Au10tixBaseUI/archive/refs/tags/4.0.0.zip",
+          checksum: "42eec055956b9973b0daef9548816b7a20f11baf33518010f73205d683e32fa4"
         ),
         .binaryTarget(
           name: "Au10tixVoiceConsentUI",
-          url: "https://github.com/au10tixmobile/Au10tixVoiceConsentUI/archive/refs/tags/3.28.0.zip",
-          checksum: "c5428dd0658689dbdce11b9823dd634f2fdf058e99e6e5360d7dbdf278ce5980"
+          url: "https://github.com/au10tixmobile/Au10tixVoiceConsentUI/archive/refs/tags/4.0.0.zip",
+          checksum: "830fe2442e98be118c9396f5d6fac30e31a6048e7b12cf14924a261630718c8d"
         )
     ]
 )
